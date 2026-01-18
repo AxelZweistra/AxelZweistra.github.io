@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Portfolio",
+    "section": "",
+    "text": "This is a template for a personal portfolio site built using Quarto.\nMy name is Axel Zweistra, I am a graduate student of methods & statistics at Utrecht University. My master thesis focuses on developing structural equation model specifications that utilize random intercepts to correct for time-varying confounding."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can contact me at my Github page or send me an e-mail at a.p.zweistra@uu.nl."
+  }
+]
