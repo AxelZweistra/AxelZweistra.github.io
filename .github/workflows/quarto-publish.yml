@@ -24,3 +24,4 @@ jobs:
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
+          publish-dir: _site
